@@ -3,10 +3,10 @@ Collection of usefull resources.
 Most from HN News, some not, enjoy.
 
 ## Security & Privacy
-[Security Tools](https://securityinabox.org/en/)
-[Harden Tools](https://github.com/securitywithoutborders/hardentools)
-[Privacy Tools](https://www.privacytools.io/)
-[Searx](https://searx.me/)  Self-Hostable search engine based on privacy.
+[Security Tools](https://securityinabox.org/en/)<br/>
+[Harden Tools](https://github.com/securitywithoutborders/hardentools)<br/>
+[Privacy Tools](https://www.privacytools.io/)<br/>
+[Searx](https://searx.me/)  Self-Hostable search engine based on privacy.<br/>
 
 ## Capture The Flag
 [root-me](https://www.root-me.org/)
