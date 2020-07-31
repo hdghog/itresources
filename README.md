@@ -1,5 +1,5 @@
 # itresources
-Collection of usefull resources.
+Collection of useful resources.
 Most from HN News, some not, enjoy.
 
 ## Security & Privacy
