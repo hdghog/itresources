@@ -30,6 +30,7 @@ Most from HN News, some not, enjoy.
 [Z0F Reverse engineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)<br/>
 [Quick GDB guide](https://condor.depaul.edu/glancast/373class/docs/gdb.html)<br/>
 [checksec](https://github.com/slimm609/checksec.sh) Interesting tool written in bash to found possible vulnerabilities in a given binary.
+[GOT & PLT overwriting](https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html)
 
 ## Emulators
  [Emulators101](http://www.emulator101.com/)<br/>
